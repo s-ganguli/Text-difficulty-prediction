@@ -1,4 +1,4 @@
-# Milestone 2 (a Supervized ML, Unsupervised ML and NLP project)
+# Milestone 2 (a Supervised ML, Unsupervised ML and NLP project)
 # Text-difficulty-prediction
 By Sharadwata Ganguli and Panini Mohan Mokrala
 
